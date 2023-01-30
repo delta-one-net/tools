@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# requirements:
+# - iproute2
+# - dhcpd
+
 # to the iternet
 WAN_IF=enp0s3
 # stuff to be proxied
